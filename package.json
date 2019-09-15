@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-web-server-demo",
+  "version": "1.0.0",
+  "description": "Ejemplo de un servidor web en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "web server"
+  ],
+  "author": "Rafael",
+  "repository": "github:ravigpcr/nodejs-web-server-demo",
+  "license": "MIT"
+}
